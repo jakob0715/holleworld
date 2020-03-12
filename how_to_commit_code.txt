@@ -1,0 +1,5 @@
+1.how to commit code
+git init
+git commit -s -m 'commit massage'
+# git remote add origin https://github.com/jakob0715/holleworld.git:
+git push -u origin master
